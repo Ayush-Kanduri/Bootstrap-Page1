@@ -42,8 +42,8 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 🔗 Links
 
 > ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Bootstrap-Page1/)
->
-> <br/>
+
+ <br/>
 
 ## 💻 Screens
 

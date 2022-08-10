@@ -10,7 +10,6 @@
 This is a Dummy Responsive Web Page built using HTML, CSS, Bootstrap. This was a part of my Online Course Front End Assignment.
 
    <br/>
-   <br/>
 
 ## 🔥 Getting Started With The Project
 
@@ -43,8 +42,8 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 🔗 Links
 
 > ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Bootstrap-Page1/)
-
-<br/>
+>
+> <br/>
 
 ## 💻 Screens
 
